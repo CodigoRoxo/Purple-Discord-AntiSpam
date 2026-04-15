@@ -6,7 +6,7 @@ Um bot robusto desenvolvido em Python para manter a integridade do seu servidor,
 
 - **Análise de Score:** Sistema de pesos que identifica padrões de golpes (Crypto, NFTs, links encurtados).
 - **Detecção de Flood:** Rastreamento cross-channel que impede usuários de espalharem mensagens em vários canais simultaneamente.
-- **Justiça Automática:** Aplicação de timeout (castigo) configurável por até 3 dias.
+- **Justiça Automática:** Aplicação de timeout (castigo) configurável (em minutos).
 - **Hall of Shame:** Um mural da vergonha persistente que expõe usuários infectados ou mal-intencionados com um toque de humor.
 
 ## 🛠️ Pré-requisitos
