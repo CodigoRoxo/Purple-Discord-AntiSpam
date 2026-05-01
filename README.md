@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./logo/antispam.png" alt="Purple AntiSpam Logo" width="200">
+</p>
 # Purple AntiSpam
 
 Bot anti-spam para Discord com foco em moderacao automatica, deteccao comportamental e configuração simples por `.env`.
