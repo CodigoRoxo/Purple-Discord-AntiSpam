@@ -56,7 +56,7 @@ O projeto comecou como um anti-spam baseado em score, flood e algumas regras de 
 - [FEATURES.md](FEATURES.md) - resumo das features mais recentes
 - [requirements.txt](requirements.txt) - dependencias Python
 - [discloud.config](discloud.config) - exemplo de deploy na Discloud
-- `timeout_counters.json` - persistencia de reincidencias
+- `timeout_counters.json` - persistencia de reincidencias (para controle de reincidência)
 
 ## Requisitos
 
@@ -81,16 +81,11 @@ Pacotes atuais:
 
 ## Como usar
 
-### 1. Clone o repositorio
-
-```bash
-git clone <seu-repo>
-cd AntiSpam/Code
-```
+### 1. Clone o repositorio ou faça download da source 2.0
 
 ### 2. Configure o `.env`
 
-Crie ou edite o arquivo `.env` com os IDs e parametros do seu servidor.
+Crie ou edite o arquivo `renomeie.env` para `.env` com os IDs e parametros do seu servidor.
 
 Exemplo:
 
