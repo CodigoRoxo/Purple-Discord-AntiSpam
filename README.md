@@ -1,6 +1,6 @@
 # Purple AntiSpam
 
-Bot anti-spam para Discord com foco em moderacao automatica, deteccao comportamental e configuracao simples por `.env`.
+Bot anti-spam para Discord com foco em moderacao automatica, deteccao comportamental e configuração simples por `.env`.
 
 O projeto comecou como um anti-spam baseado em score, flood e algumas regras de texto. A versao atual evoluiu para um sistema mais robusto com:
 
